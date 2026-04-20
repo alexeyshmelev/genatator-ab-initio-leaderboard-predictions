@@ -1,5 +1,6 @@
 {
   "augustus_Hs_NC_060944.1.gff": "Augustus",
   "gff_Hs_NC_06944_1_helixer.gff": "Helixer",
-  "tiberius_Hs_NC_060944.1.gff": "Tiberius"
+  "tiberius_Hs_NC_060944.1.gff": "Tiberius",
+  "Hs_NC_060944.1_filtered_colored.gff": "GENATATOR"
 }
