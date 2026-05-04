@@ -3,5 +3,13 @@
   "gff_Hs_NC_06944_1_helixer.gff": "Helixer",
   "tiberius_Hs_NC_060944.1.gff": "Tiberius",
   "Hs_NC_060944.1_filtered_colored.gff": "GENATATOR",
-  "annevo_Hs_NC_060944.1.gff": "ANNEVO"
+  "annevo_Hs_NC_060944.1.gff": "ANNEVO",
+  "NTv3_100M_post-32768-Hs-NC_060944.1.gff": "NTv3_100M_32kb",
+  "NTv3_650M_post-32768-Hs-NC_060944.1.gff": "NTv3_650M_32kb",
+  "NTv3_100M_post-999936-Hs-NC_060944.1.gff": "NTv3_100M_1Mb",
+  "NTv3_650M_post-999936-Hs-NC_060944.1.gff": "NTv3_650M_1Mb",
+  "segment_nt_multi_species-49992-Hs-NC_060944.1.gff": "SegmentNT_ms_50kb",
+  "segment_nt-49992-Hs-NC_060944.1.gff": "SegmentNT_50kb",
+  "segment_nt_multi_species-30000-Hs-NC_060944.1.gff": "SegmentNT_ms_30kb",
+  "segment_nt-30000-Hs-NC_060944.1.gff": "SegmentNT_30kb",
 }
