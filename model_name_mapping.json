@@ -1,6 +1,3 @@
 {
-  "gff_Hs_NC_06944_1_helixer.gff": "Helixer",
-  "tiberius_Hs_NC_060944.1.gff": "Tiberius",
-  "Hs_NC_060944.1_filtered_colored.gff": "GENATATOR",
-  "NTv3_100M_post-32768-Hs-NC_060944.1.gff": "NTv3 (100M) 32kb",
+  "Hs_NC_060944.1_filtered_colored.gff": "GENATATOR"
 }
